@@ -16,7 +16,8 @@ Teknologi yang Digunakan
 - PIL (Pillow)
 
 Tampilan Aplikasi
-(Opsional: upload screenshot dan tambahkan link gambarnya di sini)
+![Uploading Screenshot 2025-06-15 002707.png…]()
+
 
 Cara Menjalankan
 1. Clone repositori: git clone https://github.com/waliyul13/pengolahan-citra-python.git
